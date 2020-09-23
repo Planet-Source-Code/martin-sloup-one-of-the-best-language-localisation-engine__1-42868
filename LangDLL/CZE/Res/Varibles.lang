@@ -1,0 +1,12 @@
+#
+# File: Varibles.lang
+#
+# Lot of Varibles
+#############################
+
+Var frmTest.Test1="První testovací text"
+Var frmTest.Test1="Druhý testovací text"
+
+# Support adding parameters to varibles
+Var frmTest.Test3="Výsledek 6/2 je: %1"
+#END OF LANG FILE - This text is need because on the end of this file is lot of shit bytes :o(

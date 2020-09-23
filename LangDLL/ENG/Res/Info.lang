@@ -1,0 +1,14 @@
+#
+# File: Info.lang
+#
+# Lot of Language information
+#############################
+
+Var Language_Name="English"
+Var Language_Version="1.0"
+
+Var Author_Name="Martin Sloup"
+Var Author_Mail="martin.sloup@seznam.cz"
+Var Author_Text="English localize for TestLang"
+Var Author_Created_Date=""
+#END OF LANG FILE - This text is need because on the end of this file is lot of shit bytes :o(
