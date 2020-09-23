@@ -1,0 +1,21 @@
+I wrote this language engine, when i needed multilanguage
+support for my one application. Lot of multilanguage engines
+isn't good, bud this is by my opinion one from the best.
+It supports varibles, index of controls and all keys in
+controls. 
+
+For example: (all of this is supported)
+
+frmMain.lblMain.Caption="My Caption"
+frmMain.lblArray(0).Caption="Caption 0"
+frmMain.lblArray(1).Caption="Caption 1"
+frmMain.ToolBar.ButtonToolTipText(4)="About"
+
+Varibles are use this:
+Var <form_name>.<varible_name>="<value>"
+
+Look on the test source. Vote please for me.
+This is my first posted source on Planet Source Code.
+Thanks you. 
+
+Warnings for all: My mother tongue is czech.

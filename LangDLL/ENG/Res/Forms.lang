@@ -1,0 +1,30 @@
+#
+# File: Forms.lang
+#
+# Lot of Forms Constant
+#############################
+
+# Full support of Indexes Controls
+frmTest.cmdAction(0).Caption="OK"
+frmTest.cmdAction(1).Caption="&Cancel"
+
+frmTest.Caption="Language Test Caption"
+
+# Full support of Indexes Keys
+frmTest.lstTestList.List(0)="Item 1"
+frmTest.lstTestList.List(1)="Item 2"
+frmTest.lstTestList.List(2)="Item 3"
+frmTest.lstTestList.List(3)="Item 4"
+
+frmTest.lblTest.Caption="Test label"
+
+# Full support of Menus
+frmTest.mnuFile.Caption="File"
+frmTest.mnuFile_New.Caption="New"
+frmTest.mnuFile_Open.Caption="Open"
+frmTest.mnuFile_Save.Caption="Save..."
+frmTest.mnuFile_SaveAs.Caption="Save as..."
+frmTest.mnuFile_Option.Caption="Preferences"
+frmTest.mnuFile_Exit.Caption="Exit"
+
+#END OF LANG FILE - This text is need because on the end of this file is lot of shit bytes :o(

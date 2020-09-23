@@ -1,0 +1,30 @@
+#
+# File: Forms.lang
+#
+# Lot of Forms Constant
+#############################
+
+# Full support of Indexes Controls
+frmTest.cmdAction(0).Caption="OK"
+frmTest.cmdAction(1).Caption="&Storno"
+
+frmTest.Caption="Test jazyka"
+
+# Full support of Indexes Keys
+frmTest.lstTestList.List(0)="Položka 1"
+frmTest.lstTestList.List(1)="Položka 2"
+frmTest.lstTestList.List(2)="Položka 3"
+frmTest.lstTestList.List(3)="Položka 4"
+
+frmTest.lblTest.Caption="Testovací popisek"
+
+# Full support of Menus
+frmTest.mnuFile.Caption="Soubor"
+frmTest.mnuFile_New.Caption="Nový"
+frmTest.mnuFile_Open.Caption="Otevøít"
+frmTest.mnuFile_Save.Caption="Uložit..."
+frmTest.mnuFile_SaveAs.Caption="Uložit jako..."
+frmTest.mnuFile_Option.Caption="Nastavení"
+frmTest.mnuFile_Exit.Caption="Konec"
+
+#END OF LANG FILE - This text is need because on the end of this file is lot of shit bytes :o(
